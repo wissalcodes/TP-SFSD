@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1672613078 source:c:\users\wissal\desktop\messikh_wissal_groupe05_tp\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"library.h"
+
+1672613116 c:\users\wissal\desktop\messikh_wissal_groupe05_tp\library.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1672612924 source:c:\users\wissal\desktop\messikh_wissal_groupe05_tp\library.c
+	"library.h"
+
